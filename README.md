@@ -45,16 +45,16 @@
 ## 🖼️ Project Screenshots
 
 ### Video Game Discovery Platform
-<img src="assets/video-game-discovery-platform.png" width="900" />
+<img src="assets/video-game-discovery-platform.png" width="500" />
 
 ### Simon Game
-<img src="assets/simon-game.png" width="900" />
+<img src="assets/simon-game.png" width="500" />
 
 ### Drum Kit
-<img src="assets/drum-kit.png" width="900" />
+<img src="assets/drum-kit.png" width="500" />
 
 ### Dice Game
-<img src="assets/dice-game.png" width="900" />
+<img src="assets/dice-game.png" width="500" />
 
 ---
 
