@@ -3,7 +3,8 @@
 🎓 B.Sc. **Computer Science** + B.A. **Entrepreneurship** (Reichman University)  
 🧑‍💻 Aspiring **Software / Full‑Stack / Backend / Frontend Developer**  
 🧩 I build learning projects to level up fast — and real apps for myself/family/friends that solve practical needs  
-✨ Values: **Clean Code · Testing · Ownership · Product Thinking**
+✨ Values: **Clean Code · Testing · Ownership · Product Thinking**  
+💡 I enjoy building polished UIs and reliable APIs, with a strong focus on readable, maintainable code.
 
 ---
 
@@ -19,34 +20,41 @@
 
 ---
 
+## ✅ Highlights
+- ✅ **Projects:** Full‑stack apps, APIs, and OOP exercises  
+- ✅ **Strengths:** Clean architecture, testing mindset, strong self‑learning  
+- ✅ **Open to:** Junior roles / internships / collaborations
+
+---
+
 ## ⭐ Featured Projects (Pinned)
 - 🎮 **Video Game Discovery Platform** — Discover games with search, filters, and rich game pages  
-  Repo: https://github.com/dorhaboosha/Video-Game-Discovery-Platform
+  🔗 [Repository](https://github.com/dorhaboosha/Video-Game-Discovery-Platform)
 
 - 📺 **TV Show Recommender AI** — Personalized TV show recommendations using embeddings + similarity  
-  Repo: https://github.com/dorhaboosha/TV-Show-Recommender-AI
+  🔗 [Repository](https://github.com/dorhaboosha/TV-Show-Recommender-AI)
 
 - 🚗 **Garage Management System** — C#/.NET OOP project with clean separation of UI & logic  
-  Repo: https://github.com/dorhaboosha/Garage-Management
+  🔗 [Repository](https://github.com/dorhaboosha/Garage-Management)
 
 - 🧠 **Memory Game** — OOP memory game (logic + UI separation, solid design)  
-  Repo: https://github.com/dorhaboosha/Memory-Game
+  🔗 [Repository](https://github.com/dorhaboosha/Memory-Game)
 
 ---
 
 ## 🖼️ Project Screenshots
 
 ### Video Game Discovery Platform
-![Video Game Discovery Platform](assets/video-game-discovery-platform.png)
+<img src="assets/video-game-discovery-platform.png" width="900" />
 
 ### Simon Game
-![Simon Game](assets/simon-game.png)
+<img src="assets/simon-game.png" width="900" />
 
 ### Drum Kit
-![Drum Kit](assets/drum-kit.png)
+<img src="assets/drum-kit.png" width="900" />
 
 ### Dice Game
-![Dice Game](assets/dice-game.png)
+<img src="assets/dice-game.png" width="900" />
 
 ---
 
