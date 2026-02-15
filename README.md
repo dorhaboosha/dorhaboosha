@@ -1,7 +1,7 @@
 # Hi, I'm Dor Haboosha 👋
 
 🎓 B.Sc. **Computer Science** + B.A. **Entrepreneurship** (Reichman University)  
-🧑‍💻 Aspiring **Software / Full‑Stack / Backend / Frontend Developer**  
+🧑‍💻 **Software / Full‑Stack / Backend / Frontend Developer**  
 🧩 I build learning projects to level up fast — and real apps for myself/family/friends that solve practical needs  
 ✨ Values: **Clean Code · Testing · Ownership · Product Thinking**  
 💡 I enjoy building polished UIs and reliable APIs, with a strong focus on readable, maintainable code.
@@ -45,16 +45,16 @@
 ## 🖼️ Project Screenshots
 
 ### Video Game Discovery Platform
-<img src="assets/video-game-discovery-platform.png" width="900" />
+<img src="assets/video-game-discovery-platform.png" width="500" />
 
 ### Simon Game
-<img src="assets/simon-game.png" width="900" />
+<img src="assets/simon-game.png" width="500" />
 
 ### Drum Kit
-<img src="assets/drum-kit.png" width="900" />
+<img src="assets/drum-kit.png" width="500" />
 
 ### Dice Game
-<img src="assets/dice-game.png" width="900" />
+<img src="assets/dice-game.png" width="500" />
 
 ---
 
