@@ -87,8 +87,8 @@
 
 ## 📊 GitHub Stats
 
-![Dor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorhaboosha&show_icons=true&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorhaboosha&layout=compact)
+![Dor's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dorhaboosha&show_icons=true&hide_title=true&count_private=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dorhaboosha&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dorhaboosha)
 
