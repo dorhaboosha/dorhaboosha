@@ -35,7 +35,6 @@
 ---
 
 ## 🖼️ Project Screenshots
-> Tip: Upload your screenshots into this profile repo under `assets/` and then the images below will render automatically.
 
 ### Video Game Discovery Platform
 ![Video Game Discovery Platform](assets/video-game-discovery-platform.png)
@@ -75,25 +74,6 @@
 ### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats (Optional)
-Sometimes these external stat images fail to load due to **rate limits / temporary downtime / network blocking**.  
-If they don’t load for you, you can keep them (they usually come back) or remove this section.
-
-**Main source:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorhaboosha&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorhaboosha&layout=compact&langs_count=8&cache_seconds=86400)
-
-**Backup mirror (use these if the main source fails):**
-![GitHub Stats Backup](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dorhaboosha&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-![Top Langs Backup](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dorhaboosha&layout=compact&langs_count=8&cache_seconds=86400)
-
----
-
-## 🏆 GitHub Trophies (Optional)
-![Trophies](https://github-profile-trophy.vercel.app/?username=dorhaboosha&no-frame=true&row=1&column=6)
 
 ---
 
