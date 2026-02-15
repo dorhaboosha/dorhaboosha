@@ -19,14 +19,35 @@
 
 ---
 
-## 🚀 Featured Projects
-> Pin your top projects on your GitHub profile (Overview → **Customize your pins**) so recruiters see them instantly.
+## ⭐ Featured Projects (Pinned)
+- 🎮 **Video Game Discovery Platform** — Discover games with search, filters, and rich game pages  
+  Repo: https://github.com/dorhaboosha/Video-Game-Discovery-Platform
 
-- 🎮 **Video Game Discovery Platform** — React + TypeScript app for discovering games (search, filters, details)  
-- 🏋️ **Powerlifting Trainer Assistant** — API with analysis + training support features  
-- 🧱 **OOP / Backend Practice Projects** — clean architecture, validations, and testing-focused implementations
+- 📺 **TV Show Recommender AI** — Personalized TV show recommendations using embeddings + similarity  
+  Repo: https://github.com/dorhaboosha/TV-Show-Recommender-AI
 
-*(Once you choose your final 3–6 repos, replace these lines with direct links to each repository.)*
+- 🚗 **Garage Management System** — C#/.NET OOP project with clean separation of UI & logic  
+  Repo: https://github.com/dorhaboosha/Garage-Management
+
+- 🧠 **Memory Game** — OOP memory game (logic + UI separation, solid design)  
+  Repo: https://github.com/dorhaboosha/Memory-Game
+
+---
+
+## 🖼️ Project Screenshots
+> Tip: Upload your screenshots into this profile repo under `assets/` and then the images below will render automatically.
+
+### Video Game Discovery Platform
+![Video Game Discovery Platform](assets/video-game-discovery-platform.png)
+
+### Simon Game
+![Simon Game](assets/simon-game.png)
+
+### Drum Kit
+![Drum Kit](assets/drum-kit.png)
+
+### Dice Game
+![Dice Game](assets/dice-game.png)
 
 ---
 
@@ -57,15 +78,21 @@
 
 ---
 
-## 📊 GitHub Stats
-> If these images don’t load, double‑check that the username is correct and refresh the page (sometimes GitHub caches images).
+## 📊 GitHub Stats (Optional)
+Sometimes these external stat images fail to load due to **rate limits / temporary downtime / network blocking**.  
+If they don’t load for you, you can keep them (they usually come back) or remove this section.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorhaboosha&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorhaboosha&layout=compact&langs_count=8)
+**Main source:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorhaboosha&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorhaboosha&layout=compact&langs_count=8&cache_seconds=86400)
+
+**Backup mirror (use these if the main source fails):**
+![GitHub Stats Backup](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dorhaboosha&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+![Top Langs Backup](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dorhaboosha&layout=compact&langs_count=8&cache_seconds=86400)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Optional)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dorhaboosha&no-frame=true&row=1&column=6)
 
 ---
