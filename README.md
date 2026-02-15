@@ -87,14 +87,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dorhaboosha&show_icons=true&hide_title=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorhaboosha&layout=compact" />
-</p>
+![Dor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorhaboosha&show_icons=true&hide_title=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorhaboosha&layout=compact)
 
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=dorhaboosha" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=dorhaboosha)
 
 ---
 
