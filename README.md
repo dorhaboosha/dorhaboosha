@@ -1,7 +1,7 @@
 # Hi, I'm Dor Haboosha 👋
 
 🎓 B.Sc. **Computer Science** + B.A. **Entrepreneurship** (Reichman University)  
-🧑‍💻 Aspiring **Software / Full‑Stack / Backend / Frontend Developer**  
+🧑‍💻 **Software / Full‑Stack / Backend / Frontend Developer**  
 🧩 I build learning projects to level up fast — and real apps for myself/family/friends that solve practical needs  
 ✨ Values: **Clean Code · Testing · Ownership · Product Thinking**  
 💡 I enjoy building polished UIs and reliable APIs, with a strong focus on readable, maintainable code.
