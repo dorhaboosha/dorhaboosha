@@ -16,7 +16,6 @@
 
 ## 🚧 What I’m building now
 - 🖥️ **Personal Portfolio Website** — a site to showcase my projects, skills, and contact info  
-- 🌱 **Spring Boot Learning API** — a backend API project to learn Spring Boot by building
 
 ---
 
