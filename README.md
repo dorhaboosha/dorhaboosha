@@ -30,22 +30,27 @@
 
 - ### 🤖 Work Hours Bot
 Backend-focused Telegram bot for tracking work hours, managing work records, and generating weekly/monthly summaries. Built with TypeScript, Node.js, Express, PostgreSQL, Prisma, and Telegraf.
+
 🔗 Repository: https://github.com/dorhaboosha/Work-Hours-Bot
 
 - ### 🏋️ Powerlifting Trainer API
 RESTful backend API for creating personalized powerlifting training programs with AI-powered exercise feedback. Built with Python, FastAPI, PostgreSQL, and OpenAI integration.
+
 🔗 Repository: https://github.com/dorhaboosha/Powerlifting-Trainer-API
 
 - ### 🍽️ Sharon's Kitchen
 Full-stack recipe management application featuring authentication, recipe creation, editing, searching, and persistent data storage. Built with React, TypeScript, Node.js, Express, and PostgreSQL.
+
 🔗 Repository: https://github.com/dorhaboosha/Sharons-Kitchen
 
 - ### 🎮 Video Game Discovery Platform
 Responsive web application for discovering video games with advanced search, filtering, and detailed game information. Built with React, TypeScript, and the RAWG API.
+
 🔗 Repository: https://github.com/dorhaboosha/Video-Game-Discovery-Platform
 
 - ### 🚗 Garage Management System
 Object-oriented garage management system developed in C# and .NET, demonstrating clean architecture, OOP principles, inheritance, polymorphism, and separation of concerns.
+
 🔗 Repository: https://github.com/dorhaboosha/Garage-Management
 
 ---
